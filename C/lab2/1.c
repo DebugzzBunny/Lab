@@ -1,3 +1,16 @@
+/*
+Problem 1: (Euclid’s Algorithm) Write a (C) program to input two
+integers and print the GCD (Greatest Common Divisor) of the two numbers.
+Note: If both the input numbers are 0, then the output should be “Invalid
+input”.
+Sample Input 1: 10 -15
+Output 1: 5
+Sample Input 2: 0 0
+Output 2: Invalid input
+Sample Input 3: 73 0
+Output 2: 73
+*/
+
 /*INPUT:integers 'a' and 'b' are entered whose gcd is to be found
  OUTPUT: GCD of the entered numbers
 REMARK:If the numbers entered are 0, then program outputs'Invalid input' */

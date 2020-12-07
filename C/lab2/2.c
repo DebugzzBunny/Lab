@@ -1,3 +1,15 @@
+/*
+Problem 2: (Sieve of Eratosthenes) Write a (C) program to input a
+positive integer and print the number of prime numbers less than or equal to
+the input number. Note: If the input number is ≤ 1, then the output should
+be 0.
+Sample Input 1: 13
+Output 1: 6
+Sample Input 2: -5
+Output 2: 0*/
+
+
+
 /*INPUT:an integer 'num' which defines the range in which we have to find prime numbers
  OUTPUT: number of prime numbers below(including 'num') 'num'
 REMARK:If the number entered is less than or equal to 1, then program outputs'0' */

@@ -1,3 +1,14 @@
+/*Problem 2: (Sieve of Eratosthenes) Write a (C) program to input a
+positive integer and print the number of prime numbers less than or equal to
+the input number. Note: If the input number is ≤ 1, then the output should
+be 0.
+Sample Input 1: 13
+Output 1: 6
+Sample Input 2: -5
+Output 2: 0
+
+*/
+
 /*INPUT: one String and an integer
   OUTPUT: number of distinct substrings of size'n' in string inputted by the user
   REMARKS: if the length of the inputted string is less than the integer inputted, then output should be '0'*/
